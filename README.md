@@ -1,3 +1,5 @@
+
 ## Collaborators
-- [Username1](https://github.com/Username1)
-- [Username2](https://github.com/Username2)
+
+| [User1](https://github.com/IoannisDem) | [User2](https://github.com/marioskyriacou)|
+|:---------------------------------:|:---------------------------------:|
